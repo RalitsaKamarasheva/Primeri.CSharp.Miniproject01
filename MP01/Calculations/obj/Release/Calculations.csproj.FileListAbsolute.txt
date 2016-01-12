@@ -1,0 +1,7 @@
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculations\obj\Release\Calculations.csprojResolveAssemblyReference.cache
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculations\bin\Release\Calculations.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculations\bin\Release\Calculations.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculations\obj\Release\Calculations.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculations\obj\Release\Calculations.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculations\bin\Release\Colors.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculations\bin\Release\Colors.pdb

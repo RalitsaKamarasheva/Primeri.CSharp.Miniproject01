@@ -1,0 +1,13 @@
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\bin\Release\Calculator.exe
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\bin\Release\Calculator.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\obj\x86\Release\Calculator.exe
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\obj\x86\Release\Calculator.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\obj\x86\Release\Calculator.csprojResolveAssemblyReference.cache
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\bin\Release\UserInput.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\bin\Release\UserInput.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\bin\Release\About.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\bin\Release\About.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\bin\Release\Colors.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\bin\Release\Colors.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\bin\Release\Calculations.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\Calculator\bin\Release\Calculations.pdb

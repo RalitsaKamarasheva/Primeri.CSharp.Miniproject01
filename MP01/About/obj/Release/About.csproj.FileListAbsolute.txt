@@ -1,0 +1,5 @@
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\About\bin\Release\About.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\About\bin\Release\About.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\About\obj\Release\About.csprojResolveAssemblyReference.cache
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\About\obj\Release\About.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\About\obj\Release\About.pdb

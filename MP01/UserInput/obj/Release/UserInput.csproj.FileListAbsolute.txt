@@ -1,0 +1,11 @@
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\UserInput\bin\Release\UserInput.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\UserInput\bin\Release\UserInput.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\UserInput\obj\Release\UserInput.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\UserInput\obj\Release\UserInput.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\UserInput\bin\Release\About.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\UserInput\bin\Release\About.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\UserInput\obj\Release\UserInput.csprojResolveAssemblyReference.cache
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\UserInput\bin\Release\Colors.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\UserInput\bin\Release\Colors.pdb
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\UserInput\bin\Release\Calculations.dll
+D:\25.10.2015-Aula\project.csharp.miniproject01\MP01\UserInput\bin\Release\Calculations.pdb
